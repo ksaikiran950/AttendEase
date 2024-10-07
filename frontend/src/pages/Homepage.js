@@ -15,16 +15,12 @@ const Homepage = () => {
                 <Grid item xs={12} md={6}>
                     <StyledPaper elevation={3}>
                         <StyledTitle>
-                            Welcome to
-                            <br />
-                            School Management
-                            <br />
-                            System
+                            ATTENDEASE: STREAMLINING ATTENDANCE MANAGEMENT
                         </StyledTitle>
                         <StyledText>
-                            Streamline school management, class organization, and add students and faculty.
+                            Streamline College Management, class organization, and add students and faculty.
                             Seamlessly track attendance, assess performance, and provide feedback.
-                            Access records, view marks, and communicate effortlessly.
+                            Access records, view attendance, and communicate effortlessly.
                         </StyledText>
                         <StyledBox>
                             <StyledLink to="/choose">

@@ -13,7 +13,7 @@ dotenv.config();
 // app.use(bodyParser.json({ limit: '10mb', extended: true }))
 // app.use(bodyParser.urlencoded({ limit: '10mb', extended: true }))
 
-app.use(express.json({ limit: '10mb' }))
+app.use(express.json({ limit: '1000mb' }))
 app.use(cors())
 
 mongoose
