@@ -11,7 +11,7 @@ Access records, view marks, and communicate effortlessly.
 
 # About
 
-The College Management System is a web-based application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It aims to streamline college management, class organization, and facilitate communication between students, teachers, and administrators.
+The College  Attendance Management System is a web-based application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It aims to streamline college management, class organization, and facilitate communication between students, teachers, and administrators.
 
 ## Features
 
